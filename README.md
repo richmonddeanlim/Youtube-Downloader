@@ -30,7 +30,7 @@ This project was developed as a practice project to strengthen Python programmin
 git clone https://github.com/richmonddeanlim/Youtube-Downloader.git
 ```
 3. Navigate to the project directory
-4. Install dependencies
+4. Install dependencies [ installing pytube and mmfpeg ]
 
 ## Usage
 Run the Python script:
@@ -39,6 +39,7 @@ python main.py
 ```
 Then paste the YouTube video URL when prompted.
 The video will be downloaded and saved locally on your device.
+notes: pls change the directory location in the code.
 
 ## Example Workflow
 1. Run the script
