@@ -46,7 +46,3 @@ notes: pls change the directory location in the code.
 2. Paste a YouTube video link
 3. The program processes the link
 4. The video is downloaded automatically
-
-## Author
-**Richmond Deanlim**  
-Data Analytics Student
