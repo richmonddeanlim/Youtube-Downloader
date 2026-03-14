@@ -36,7 +36,7 @@ git clone https://github.com/richmonddeanlim/Youtube-Downloader.git
 ## Usage
 Run the Python script:
 ```bash
-python main.py
+python YouTube.py
 ```
 Then paste the YouTube video URL when prompted.
 The video will be downloaded and saved locally on your device.
