@@ -15,7 +15,8 @@ This project was developed as a practice project to strengthen Python programmin
 ## Technologies Used
 - Python
 - pytube
-- CLI
+- Command Line Interface (CLI)
+- Git and GitHub
 
 ## Skills Demonstrated
 - Python scripting
